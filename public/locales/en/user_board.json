@@ -1,0 +1,52 @@
+{
+    "companies": "Companies",
+    "company_table": {
+        "add": "ADD COMPANY",
+        "address": "CITY",
+        "country": "NATION",
+        "name": "COMPANY NAME",
+        "projects": "PROJECTS",
+        "status": "STATUS",
+        "update_date": "UPDATE DAY",
+        "users": "USERS",
+        "actions": "ACTIONS",
+        "view": "View",
+        "not_yet_update": "Not yet update"
+    },
+    "dashboard": "Dashboard",
+    "logout": "Log out",
+    "profile": "Profile",
+    "projects": "Projects",
+    "project_table": {
+        "type": "Format",
+        "update_date": "Update day",
+        "update_num": "Number of updates"
+    },
+    "request": "Request",
+    "request_form": {
+        "content": "Content",
+        "subject": "Title",
+        "title": "Contact now"
+    },
+    "user_profile": {
+        "address": "Address",
+        "company_name": "Company name",
+        "fullname": "Full name",
+        "intro": "Introduce",
+        "phone": "Phone",
+        "role": "Account type",
+        "title": "User information"
+    },
+    "users": "Users",
+    "user_table": {
+        "action": "ACTION",
+        "add_user": "ADD USER",
+        "admin": "Administrator",
+        "normal_user": "User",
+        "role": "ROLE",
+        "status": "STATUS",
+        "update_day": "UPDATE DAY",
+        "user_name": "USER NAME",
+        "not_yet_update": "Not yet update"
+    }
+}

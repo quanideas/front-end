@@ -1,0 +1,77 @@
+{
+    "contact": {
+        "adress": "Address",
+        "email_plh": "your email",
+        "fullname": "Full name",
+        "fullname_plh": "Fill in your name",
+        "phone": "Phone",
+        "reminder": "Message",
+        "send": "Send",
+        "send_mail": "Email us for support.",
+        "title": "Your information"
+    },
+    "equipment": {
+        "detail": "DETAIL",
+        "detail_1": "Phantom 4 RTK is an advanced drone for surveying and mapping, integrating centimeter-accurate RTK. With a 20MP camera and 30-minute flight time, it provides high-quality data for engineering and construction projects.",
+        "detail_2": "Phantom 4 Pro is a high-end drone with a 20MP camera, 1-inch CMOS sensor and up to 30 minutes of flight time. It provides outstanding image and video quality, ideal for professional photography and videography.",
+        "detail_3": "Mavic 3 Thermal is a multi-purpose drone with a thermal camera and 4/3 CMOS sensor. It provides accurate thermal imaging and a flight time of up to 46 minutes, ideal for rescue, surveillance and infrastructure inspection applications.",
+        "subtitle_1": "Phantom 4 RTK",
+        "subtitle_2": "Phantom 4 Pro",
+        "subtitle_3": "Mavic 3 Thermal",
+        "title": "EQUIPMENT OF"
+    },
+    "hero": {
+        "book": "BOOK",
+        "sub-title_1": "Smart surveying and mapping",
+        "sub-title_2": "Build 3D models",
+        "sub-title_3": "Research the structure",
+        "sub-title_4": "Environmental analysis",
+        "sub-title_5": "Business Training and Consulting",
+        "sub-title_6": "Specialized Products",
+        "title": "UAV APPLICATION SERVICES"
+    },
+    "intro": {
+        "find_out": "FIND OUT MORE",
+        "para_1": "Providing quality and sustainable services and solutions to customers with smart surveying and mapping services",
+        "para_2": "Leading and driving technological change across industries and government agencies",
+        "para_3": "Pursue sustainable development and learning for the team",
+        "para_4": "Promote the development of applications and services for drones in Vietnam",
+        "title": "MISSION OF"
+    },
+    "projects": {
+        "more": "View more",
+        "prj_1": "Record the current environmental status of Cai Lon and Cai Be rivers",
+        "prj_2": "Surveying the current status of mine X, Binh Duong province",
+        "prj_3": "Survey of solar panels",
+        "prj_4": "Survey the current status of high-rise apartments",
+        "prj_5": "Terrain survey and 3D modeling of Lam Dong",
+        "prj_6": "Linear survey of terrain (1:1000) in Ho Chi Minh City",
+        "title": "PROJECTS OF"
+    },
+    "quotes": {
+        "checkbox1": "I agree with IdeasDrone's",
+        "checkbox2": "Privacy Policy",
+        "firstname": "Firstname*",
+        "lastname": "Lastname*",
+        "mail": "Company email*",
+        "mes": "Let us know how we can help you.",
+        "term": "IdeasDrone may use your information to contact you about our products or services, you can unsubscribe from these communications at any time.",
+        "title": "Book a consultation with us",
+        "book" : "Book now"
+    },
+    "services": {
+        "detail_1": "We carry out surveys and create accurate and detailed smart maps, providing useful information about the terrain and environment.",
+        "detail_2": "We use advanced technology to create high-quality 3D models, helping you better understand the space and structure of projects.",
+        "detail_3": "We provide in-depth structural inspection services, helping you ensure the safety and quality of construction projects.",
+        "detail_4": "We perform detailed environmental analyzes to assess the impact of man-made and natural activities on the surrounding environment.",
+        "detail_5": "We provide training and consulting services to businesses on the use of UAV technology and applications in their business operations.",
+        "detail_6": "We offer digital geodetic data storage and display services, accessible on any platform, at any time, and from anywhere.",
+        "sub_title_1": "SURVEY AND INTELLIGENT MAPPING",
+        "sub_title_2": "BUILDING 3D MODELS",
+        "sub_title_3": "STRUCTURAL INSPECTION",
+        "sub_title_4": "ENVIRONMENTAL ANALYSIS",
+        "sub_title_5": "TRAINING AND BUSINESS CONSULTATION",
+        "sub_title_6": "DIGITAL DATA STORAGE AND DISPLAY PLATFORM",
+        "title": "SERVICES OF"
+    }
+}

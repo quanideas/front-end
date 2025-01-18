@@ -1,0 +1,77 @@
+{
+    "contact": {
+        "adress": "Địa chỉ",
+        "email_plh": "email của bạn",
+        "fullname": "Tên đầy đủ",
+        "fullname_plh": "Điền tên của bạn",
+        "phone": "Điện thoại",
+        "reminder": "Lời nhắn",
+        "send": "Send",
+        "send_mail": "Gửi mail cho chúng tôi để được hỗ trợ.",
+        "title": "Thông tin của bạn"
+    },
+    "equipment": {
+        "detail": "CHI TIẾT",
+        "detail_1": "Phantom 4 RTK là drone tiên tiến cho khảo sát và lập bản đồ, tích hợp RTK chính xác đến từng centimet. Với camera 20MP và thời gian bay 30 phút, nó cung cấp dữ liệu chất lượng cao cho các dự án kỹ thuật và xây dựng.",
+        "detail_2": "Phantom 4 Pro là drone cao cấp với camera 20MP, cảm biến CMOS 1 inch và thời gian bay lên đến 30 phút. Nó cung cấp chất lượng hình ảnh và video vượt trội, lý tưởng cho nhiếp ảnh và quay phim chuyên nghiệp.",
+        "detail_3": "Mavic 3 Thermal là drone đa năng với camera nhiệt và cảm biến CMOS 4/3. Nó cung cấp hình ảnh nhiệt độ chính xác và thời gian bay lên đến 46 phút, lý tưởng cho các ứng dụng cứu hộ, giám sát và kiểm tra cơ sở hạ tầng.",
+        "subtitle_1": "Phantom 4 RTK",
+        "subtitle_2": "Phantom 4 Pro",
+        "subtitle_3": "Mavic 3 Thermal",
+        "title": "THIẾT BỊ CỦA"
+    },
+    "hero": {
+        "book": "ĐẶT LỊCH",
+        "sub-title_1": "Khảo sát và lập bản đồ thông minh",
+        "sub-title_2": "Xây dựng mô hình 3D",
+        "sub-title_3": "Kiểm tra cấu trúc",
+        "sub-title_4": "Phân tích môi trường",
+        "sub-title_5": "Đào tạo và Tư vấn Doanh nghiệp",
+        "sub-title_6": "Các sản phẩm Chuyên dụng",
+        "title": "DỊCH VỤ ỨNG DỤNG UAV"
+    },
+    "intro": {
+        "find_out": "TÌM HIỂU THÊM",
+        "para_1": "Cung cấp các dịch vụ và giải pháp chất lượng và bền vững cho khách hàng với các dịch vụ khảo sát và lập bản đồ thông minh",
+        "para_2": "Đứng đầu và thúc đẩy sự thay đổi công nghệ trong các ngành công nghiệp và cơ quan nhà nước",
+        "para_3": "Theo đuổi sự phát triển bền vững và học hỏi cho đội ngũ",
+        "para_4": "Thúc đẩy sự phát triển ứng dụng và dịch vụ cho drone tại Việt Nam",
+        "title": "SỨ MỆNH CỦA"
+    },
+    "projects": {
+        "more": "Xem thêm",
+        "prj_1": "Ghi hiện trạng môi trường sông Cái Lớn và Cái Bé",
+        "prj_2": "Khảo sát hiện trạng mỏ X, tỉnh Bình Dương",
+        "prj_3": "Khảo sát tấm năng lượng mặt trời",
+        "prj_4": "Khảo sát hiện trạng chung cư cao tầng",
+        "prj_5": "Khảo sát địa hình và dựng mô hình 3D Lâm Đồng",
+        "prj_6": "Khảo sát tuyến tính địa hình (1:1000) tại TP.HCM",
+        "title": "CÁC DỰ ÁN CỦA"
+    },
+    "quotes": {
+        "checkbox1": "Tôi đồng ý với ",
+        "checkbox2": "IdeasDrone",
+        "firstname": "Họ",
+        "lastname": "Tên",
+        "mail": "Email công ty",
+        "mes": "Cho chúng tôi biết chúng tôi có thể giúp gì cho bạn.",
+        "term": "IdeasDrone có thể sử dụng thông tin của bạn để liên hệ với bạn về các sản phẩm hoặc dịch vụ của chúng tôi, bạn có thể hủy đăng ký nhận các thông tin liên lạc này bất cứ lúc nào.",
+        "title": "Đặt hẹn lịch tư vấn với chúng tôi",
+        "book" : "Đặt lịch"
+    },
+    "services": {
+        "detail_1": "Chúng tôi thực hiện các cuộc khảo sát và tạo ra các bản đồ thông minh chính xác và chi tiết, cung cấp thông tin hữu ích về địa hình và môi trường.",
+        "detail_2": "Chúng tôi sử dụng công nghệ tiên tiến để tạo ra các mô hình 3D chất lượng cao, giúp bạn hiểu rõ hơn về không gian và cấu trúc của các dự án.",
+        "detail_3": "Chúng tôi cung cấp các dịch vụ kiểm tra kết cấu chuyên sâu, giúp bạn đảm bảo tính an toàn và chất lượng của các công trình xây dựng.",
+        "detail_4": "Chúng tôi thực hiện các phân tích môi trường chi tiết để đánh giá tác động của các hoạt động nhân tạo và tự nhiên đối với môi trường xung quanh.",
+        "detail_5": "Chúng tôi cung cấp các dịch vụ đào tạo và tư vấn cho doanh nghiệp về việc sử dụng công nghệ UAV và ứng dụng trong hoạt động kinh doanh của họ.",
+        "detail_6": "Chúng tôi cung cấp dịch vụ lưu trữ và hiển thị dữ liệu trắc địa số, hiển thị trên mọi nền tảng, mọi lúc mọi nơi.",
+        "sub_title_1": "KHẢO SÁT VÀ LẬP BẢN ĐỒ THÔNG MINH",
+        "sub_title_2": "XÂY DỰNG MÔ HÌNH 3D",
+        "sub_title_3": "KIỂM TRA KẾT CẤU",
+        "sub_title_4": "PHÂN TÍCH MÔI TRƯỜNG",
+        "sub_title_5": "ĐÀO TẠO VÀ TƯ VẤN DOANH NGHIỆP",
+        "sub_title_6": "NỀN TẢNG LƯU TRỮ VÀ HIỂN THỊ DỮ LIỆU SỐ",
+        "title": "CÁC DỊCH VỤ CỦA"
+    }
+}

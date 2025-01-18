@@ -1,0 +1,52 @@
+{
+    "companies": "Công ty",
+    "company_table": {
+        "add": "THÊM CÔNG TY",
+        "address": "THÀNH PHỐ",
+        "country": "QUỐC GIA",
+        "name": "TÊN CÔNG TY",
+        "projects": "DỰ ÁN",
+        "status": "TRẠNG THÁI",
+        "update_date": "NGÀY CẬP NHẬT",
+        "users": "NGƯỜI DÙNG",
+        "actions": "HÀNH ĐỘNG",
+        "view": "Xem",
+        "not_yet_update": "Chưa cập nhật"
+    },
+    "dashboard": "Bảng điều khiển",
+    "logout": "Đăng xuất",
+    "profile": "Hồ sơ",
+    "projects": "Dự án",
+    "project_table": {
+        "type": "Định dạng",
+        "update_date": "Ngày cập nhật",
+        "update_num": "Số bản cập nhật"
+    },
+    "request": "Yêu cầu",
+    "request_form": {
+        "content": "Nội dung",
+        "subject": "Tiêu đề",
+        "title": "Liên hệ ngay"
+    },
+    "user_profile": {
+        "address": "Địa chỉ",
+        "company_name": "Tên công ty",
+        "fullname": "Tên đầy đủ",
+        "intro": "Giới thiệu",
+        "phone": "Điện thoại",
+        "role": "Loại tài khoản",
+        "title": "Thông tin người dùng"
+    },
+    "users": "Người dùng",
+    "user_table": {
+        "action": "HÀNH ĐỘNG",
+        "add_user": "THÊM NGƯỜI DÙNG",
+        "admin": "Người quản trị",
+        "normal_user": "Người dùng",
+        "role": "VAI TRÒ",
+        "status": "TRẠNG THÁI",
+        "update_day": "NGÀY CẬP NHẬT",
+        "user_name": "TÊN NGƯỜI DÙNG",
+        "not_yet_update": "Chưa cập nhật"
+    }
+}
