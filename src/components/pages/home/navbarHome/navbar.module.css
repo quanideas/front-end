@@ -1,0 +1,24 @@
+/* styles/navbar.css */
+.nav-container {
+    position: sticky;
+    top: 0; 
+    z-index: 1000; 
+  }
+
+  .navbar {
+    max-width: 100%;
+    padding: 1rem; 
+  }
+
+.active {
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom: 1px solid #64C850;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: color 0.2s ease-in-out;
+}
+
+.block:hover {
+  color: #138b9b;
+}

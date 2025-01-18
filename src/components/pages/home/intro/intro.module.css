@@ -1,0 +1,16 @@
+@keyframes float {
+    0% {
+      transform: translateY(0); /* Ban đầu ở vị trí ban đầu */
+    }
+    50% {
+      transform: translateY(-20px); /* Di chuyển lên 20px */
+    }
+    100% {
+      transform: translateY(0); /* Quay lại vị trí ban đầu */
+    }
+  }
+  
+  .float-effect {
+    animation: float 3s ease-in-out infinite; /* Di chuyển lên xuống mãi mãi */
+  }
+  
