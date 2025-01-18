@@ -1,0 +1,218 @@
+IdeasDrone/
+
+📂public/
+├── 📘images/
+│   ├── homepage/
+│   │   ├── green_field_1.jpeg
+│   │   ├── green_field_2.jpeg
+│   │   ├── mavic_pro.jpeg
+│   │   ├── mavic_pro_1.jpeg
+│   │   ├── mavic_pro_2.jpeg
+│   │   ├── mavic_pro_3.jpeg
+│   │   ├── phantom4_RTK.png
+│   │   ├── phantom4_RPK1.jpg
+│   │   ├── phantom4_RTK2.jpeg
+│   │   ├── phantom4_RTK3.jpeg
+│   │   ├── mavic3.jpg
+│   │   ├── phantom4_RTK4.jpeg
+│   │   ├── phantomPro4_1.jpg
+│   │   ├── icon_service1.png
+│   │   ├── icon_service2.png
+│   │   ├── icon_service3.png
+│   │   ├── icon_service4.png
+│   │   ├── icon_service5.png
+│   │   ├── icon_service6.png
+│   │   ├── contact_bg.jpeg
+│   │   ├── RSE_pics.jpeg
+│   │   ├── image_prj1.jpg
+│   │   ├── image_prj2.png
+│   │   ├── image_prj3.jpg
+│   │   ├── image_prj4.png
+│   │   ├── image_prj5.jpg
+│   │   ├── image_prj6.jpg
+│   ├── login/
+│   │   ├── background.png
+│   ├── users/
+│   │   ├── projecf_makeup.png
+│   │   ├── projecf_demo.png
+│   ├── common/
+│   │   ├── logo_1.jpg
+│   │   ├── logo_2.jpg
+│   │   ├── logo_main.jpg
+│   │   ├── default_avatar.jpg
+│   │   ├── default_prj.jpg
+│   │   ├── note_icon.png
+├── 📘icons/
+│   ├── homepage/
+│   │   ├── icon_messenger.svg
+│   │   ├── icon_phone.svg
+|   │   ├── icon_zalo.svg
+│   ├── login/
+│   │   ├── empty
+│   ├── users/
+│   │   ├── empty
+│   ├── common/
+│   │   ├── developing.svg
+│   │   ├── contact.svg
+│   │   ├── project.svg
+│   │   ├── setting.svg
+│   │   ├── user.svg
+│   │   ├── company.svg
+├── 📘fonts/
+│   ├── custom-font.ttf
+├── robots.txt
+├── sitemap.xml
+
+
+📂app/
+├──📘(auth)/
+│   ├── login/
+│   │   ├── page.jsx
+|
+├──📘(introduction)/
+│   ├── about/
+│   │   ├── page.jsx
+│   ├── contact/
+│   │   ├── page.jsx
+│   ├── equipments/
+│   │   ├── page.jsx
+│   ├── projects/
+│   │   ├── page.jsx
+│   ├── services/
+│   │   ├── page.jsx
+│   ├── quote/
+│   │   ├── page.jsx
+|
+├──📘(users)/
+│   ├── root/
+│   │   ├── companies/
+│   │   │   ├── projects/
+│   │   │   │   ├── [projects_xxx/]
+│   │   │   │   │   ├── page.jsx
+│   │   │   │   ├── page.jsx
+│   │   │   ├── users/
+│   │   │   │   ├── page.jsx
+│   │   │   ├── page.jsx
+│   │   ├── requests/
+│   │   │   ├── page.jsx
+│   │   ├── others(not yet develop)/
+│   ├── admin/
+│   │   ├── dashboard/
+│   │   │   ├── page.jsx
+│   │   │   ├── [projects_xxx/]
+│   │   │   │   ├── page.jsx
+│   │   ├── requests/
+│   │   │   ├── page.jsx
+│   │   ├── profile/
+│   │   │   ├── page.jsx
+│   ├── user/
+│   │   ├── dashboard/
+│   │   │   ├── page.jsx
+│   │   │   ├── [projects_xxx/]
+│   │   │   │   ├── page.jsx
+│   │   ├── requests/
+│   │   │   ├── page.jsx
+│   │   ├── profile/
+│   │   │   ├── page.jsx
+
+📂src/
+├──📘components/
+│   ├── /common
+│   │   ├── developing/
+│   │   │   ├── Developing.jsx
+│   │   │   ├── developing.module.css
+│   │   ├── socialMedia/
+│   │   │   ├── SocialMedia.jsx
+│   │   │   ├── socialMedia.module.css
+│   │   ├── addUserForm/
+│   │   │   ├── AddUser.jsx
+│   │   │   ├── addUser.module.css
+│   │   ├── addProjectForm/
+│   │   │   ├── AddProject.jsx
+│   │   │   ├── addProject.module.css
+│   │   ├── addCompanyForm/
+│   │   │   ├── AddCompany.jsx
+│   │   │   ├── addCompany.module.css
+│   │   ├── actionButton/
+│   │   │   ├── ActionButton.jsx
+│   │   │   ├── actionButton.module.css
+│   │   ├── userProfile/
+│   │   │   ├── UserProfile.jsx
+│   │   │   ├── userProfile.module.css
+│   │   ├── userContact/
+│   │   │   ├── UserContact.jsx
+│   │   │   ├── userContact.module.css
+│   ├── /layout
+│   │   ├── navbar/
+│   │   │   ├── Navbar.jsx
+│   │   │   ├── navbar.module.css
+│   │   ├── footer/
+│   │   │   ├── Footer.jsx
+│   │   │   ├── footer.module.css
+│   │   ├── sidebar/
+│   │   │   ├── Sidebar.jsx
+│   │   │   ├── sidebar.module.css
+│   │   ├── rootLayout/
+│   │   │   ├── RootLayout.jsx
+│   │   │   ├── rootLayout.module.css
+│   │   ├── adminLayout/
+│   │   │   ├── AdminLayout.jsx
+│   │   │   ├── adminLayout.module.css
+│   │   ├── userLayout/
+│   │   │   ├── UserLayout.jsx
+│   │   │   ├── userLayout.module.css
+│   ├── /pages
+│   │   ├── /home
+│   │   │   ├── hero/
+│   │   │   │   ├── Hero.jsx
+│   │   │   │   ├── hero.module.css
+│   │   │   ├── intro/
+│   │   │   │   ├── Intro.jsx
+│   │   │   │   ├── intro.module.css
+│   │   │   ├── services/
+│   │   │   │   ├── Services.jsx
+│   │   │   │   ├── services.module.css
+│   │   │   ├── equipments/
+│   │   │   │   ├── Equipment.jsx
+│   │   │   │   ├── equipment.module.css
+│   │   │   ├── projects/
+│   │   │   │   ├── Projects.jsx
+│   │   │   │   ├── projects.module.css
+│   │   │   ├── contact/
+│   │   │   │   ├── Contact.jsx
+│   │   │   │   ├── contact.module.css
+│   │   │   ├── quotes/
+│   │   │   │   ├── Quotes.jsx
+│   │   │   │   ├── quotes.module.css
+│   │   ├── /login
+│   │   │   ├── login/
+│   │   │   │   ├── Login.jsx
+│   │   │   │   ├── login.module.css
+│   │   │   ├── resetPassword/
+│   │   │   │   ├── ResetPassword.jsx
+│   │   │   │   ├── resetPassword.module.css
+│   │   ├── /users
+│   │   │   ├── root/
+│   │   │   │   ├── companies/
+│   │   │   │   │   ├── Companies.jsx/
+│   │   │   │   │   ├── CompanyProjects.jsx/
+│   │   │   │   │   ├── CompanyUsers.jsx/
+│   │   │   │   │   ├── companies.module.css/
+│   │   │   │   ├── allProjects/
+│   │   │   │   │   ├── empty
+│   │   │   │   ├── allUsers/
+│   │   │   │   │   ├── empty
+│   │   │   ├── admin/
+│   │   │   │   ├── dashboard/
+│   │   │   │   │   ├── Dashboard.jsx
+│   │   │   │   │   ├── dashboard.module.css/
+│   │   │   ├── user/
+│   │   │   │   ├── dashboard/
+│   │   │   │   │   ├── Dashboard.jsx
+│   │   │   │   │   ├── dashboard.module.css/
+│   ├── /utils
+│   │   ├── fetchData.js
+│   │   ├── formatDate.js
+│   ├── /hooks
+│       ├── useAuth.js
+│       ├── useFetch.js
